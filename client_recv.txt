@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 30 Aug 2024 13:25:59 GMT
+Server: Apache/2.4.62 (Win64)
+Last-Modified: Sun, 25 Aug 2024 07:02:37 GMT
+ETag: "2e-6207c97f8ba75"
+Accept-Ranges: bytes
+Content-Length: 46
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+<html><body><h1>It works!</h1></body></html>
